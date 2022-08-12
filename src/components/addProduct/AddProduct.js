@@ -3,22 +3,6 @@ import React from 'react';
 const AddProduct = () => {
   return (
     <>
-      {/* <div class="navbar bg-[#0095A0]">
-        <div class="flex-1 mx-20">
-          <a class="btn btn-ghost normal-case text-white text-xl">Add Product</a>
-        </div>
-        <div class="flex-none gap-2">
-          <div class="form-control ">
-            <body class="p-2">
-            </body>
-          </div>
-          <div>
-            <Link to='addProduct'><button class="btn btn-ghost mr-20 rounded-none text-white ">x</button></Link>
-
-          </div>
-        </div>
-      </div> */}
-
       <div>
         <form className='mx-20'>
           <div class="form-control my-2 w-full ">
